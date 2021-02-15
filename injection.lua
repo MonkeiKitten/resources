@@ -1,8 +1,8 @@
 game.StarterGui:SetCore("SendNotification",  {
- Title = "MKX";
- Text = "Monkei X Reborn Has Injected!";
+ Title = "Nirvana";
+ Text = "Nirvana Has Injected!";
  Duration = 5;
- Button1 = "Thanks!";
+ Button1 = "Nirvana Winning";
  Callback = NotificationBindable;
 })
 print("-")
@@ -15,7 +15,7 @@ print("-------")
 print("--------")
 print("---------")
 print("----------")
-print("Monkei X Reborn Has Injected!")
+print("Nirvana Has Injected!")
 print("----------")
 print("---------")
 print("--------")
